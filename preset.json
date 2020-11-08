@@ -1,0 +1,29 @@
+{
+    "Presets": {
+        "Bells30": {
+            "Gong": "bells",
+            "Frequency": {
+                "val": 5,
+                "unit": "min"
+            },
+            "Total Time": {
+                "val": 60,
+                "unit": "min"
+            }
+        },
+        "Bells31": {
+            "Gong": "bells",
+            "Frequency": {
+                "val": 5,
+                "unit": "min"
+            },
+            "Total Time": {
+                "val": 60,
+                "unit": "min"
+            }
+        }
+    }
+}
+
+
+
